@@ -1,5 +1,7 @@
 android-square-progressbar
 ==========================
+
+[![Join the chat at https://gitter.im/mrwonderman/android-square-progressbar-legacy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mrwonderman/android-square-progressbar-legacy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![square image](https://oavhhw.bn1.livefilestore.com/y2mOYieeVxCoUj5JwuoeHt302BrP4iKC3qeFV1gUkWh7Xjm5ie5ZjANjekofpakTTMZb6-m3gwnx1SauhMo87D9VVh4MVEDW-0Tpq47-liKfLF-lpNNAoTTYCSVUJcjz4dB/header140.png?psid=1)
 ## First things first
 
